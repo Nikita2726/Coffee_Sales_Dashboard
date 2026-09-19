@@ -152,8 +152,10 @@ The dashboard uses charts and summarized metrics to make it easier for stakehold
 ```text
 Coffee-Shop-Sales-Analysis/
 │
-├── coffee shop sales.xlsx
-└── README.md
+├── Coffee Shop Sales.xlsx       # Excel workbook containing analysis and dashboard
+├── Dataset.xlsx # Raw sales dataset
+├── README.md                    # Project documentation
+└── Dashboard.png                # Screenshot of the Excel dashboard
 ```
 
 ### Excel Workbook Structure
